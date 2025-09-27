@@ -5,14 +5,12 @@ Hi👋, I'm Aryan Singh
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=aryann-7&color=blueviolet&style=flat-square)
-  ![GitHub followers](https://img.shields.io/github/followers/aryann-7?label=Followers&style=social)
-  ![GitHub User's stars](https://img.shields.io/github/stars/aryann-7?style=social)
   
 </div>
 
 ## A passionate developer from Fiji 🌟
 
-- 🔭 I'm currently working on a ** React Native Webapp**
+- 🔭 I'm currently working on a **React-native Webapp**
 - 🌱 I'm currently learning **React & Node.JS**  
 - 👯 I'm looking to collaborate on **Java & Python Projects**
 - 💬 Ask me about **Java, C++ & Python**
