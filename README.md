@@ -2,12 +2,6 @@
 Hi👋, I'm Aryan Singh
 </h1>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=aryann-7&color=blueviolet&style=flat-square)
-  
-</div>
-
 ## A passionate developer from Fiji 🌟
 
 - 🔭 I'm currently working on a **React-native Webapp**
