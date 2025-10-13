@@ -4,7 +4,7 @@ Hi👋, I'm Aryan Singh
 
 ## A passionate developer from Fiji 🌟
 
-- 🔭 I'm currently working on a **React-native Webapp**
+- 🔭 I'm currently working on a **Navigation App**
 - 🌱 I'm currently learning **React & Node.JS**  
 - 👯 I'm looking to collaborate on **Java & Python Projects**
 - 💬 Ask me about **Java, C++ & Python**
