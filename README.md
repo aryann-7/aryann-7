@@ -2,13 +2,12 @@
 Hey there👋, I'm Aryan
 </h1>
 
-## A passionate developer and avid follower about anything in the tech industry, from Fiji🌟
+## A passionate developer and avid follower about all things tech, from Fiji.
 
 - 🔭 I'm currently working on a **Navigation App**
 - 👯 I'm looking to collaborate on **Java & Python Projects**
 - 💬 Ask me anything **SWE, OOP, Web Dev & DevOps**
-- 📫 How to reach me: **aryanzsingh444@gmail.com**
-- ⚡ Fun fact: **I'm also a part-time Esports Player in FreeFire with more than a dozen Regional Placements in the Top 500 for the OCE & Singapore Region**
+- ⚡ Fun fact: **I'm also a part-time E-Sports Player in FreeFire with more than a dozen Regional Placements in the Top 500 for the OCE & Singapore Region**
 
 ---
 
