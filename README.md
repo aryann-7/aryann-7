@@ -65,11 +65,6 @@ Hey there👋, I'm Aryan
   
 </div>
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryann-7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 <div align="center">
