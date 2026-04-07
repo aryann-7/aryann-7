@@ -67,14 +67,6 @@ Hey there👋, I'm Aryan
 
 ---
 
-## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryann-7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="flex: 1 1 300px; max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryann-7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="flex: 1 1 300px; max-width: 400px;" />
-</div>
-
----
-
 <div align="center">
   
   ### Show some ❤️ by starring some of the repositories!
