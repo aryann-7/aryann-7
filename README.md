@@ -2,7 +2,7 @@
 Hey there👋, I'm Aryan
 </h1>
 
-## A passionate developer and avid follower about all things tech, from Fiji.
+## A Software Engineering student, passionate developer and avid follower about all things tech-related.
 
 - 🔭 I'm currently working on a **Navigation App**
 - 👯 I'm looking to collaborate on **Java & Python Projects**
