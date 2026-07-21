@@ -4,7 +4,7 @@ Hey there👋, I'm Aryan
 
 ## A Software Engineering student, passionate developer and avid follower about all things tech-related.
 
-- 🔭 I'm currently working on a **Navigation App**
+- 🔭 I'm currently working on a **Weather Webapp & A Multiplayer Game App**
 - 👯 I'm looking to collaborate on **Java & Python Projects**
 - 💬 Ask me anything **SWE, OOP, Web Dev & DevOps**
 
