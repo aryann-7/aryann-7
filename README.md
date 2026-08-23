@@ -60,9 +60,8 @@ Hey there👋, I'm Aryan
 
 <!-- Top Languages Donut Chart -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryann-7&layout=donut&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/aryann-7?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.details=bytes-size,percentage&languages.colors=github&languages.limit=8&theme=dracula" alt="Top Languages" />
 </div>
-
 ---
 
 <div align="center">
