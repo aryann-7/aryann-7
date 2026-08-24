@@ -7,12 +7,7 @@
 - 🔭 I'm currently working on developing **a React Native Webapp**
 - 👯 I'm looking to collaborate on **Java & Python Projects**
 - 💬 Ask me anything **SWE, OOP, Web Dev & DevOps**
-
-<div align="center">
-  <a href="https://aryan10.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-aryan10.dev-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
-  </a>
-</div>
+- 🌐 Personal Website: www.aryan10.dev
 
 ---
 
