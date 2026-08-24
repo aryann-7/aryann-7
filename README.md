@@ -4,9 +4,15 @@
 
 ## "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases."
 
-- 🔭 I'm currently working on developing **my personal e-portfolio**
+- 🔭 I'm currently working on developing **a React Native Webapp**
 - 👯 I'm looking to collaborate on **Java & Python Projects**
 - 💬 Ask me anything **SWE, OOP, Web Dev & DevOps**
+
+<div align="center">
+  <a href="https://aryan10.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-aryan10.dev-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</div>
 
 ---
 
@@ -70,4 +76,10 @@
   ### Show some ❤️ by starring some of the repositories!
   ### God Bless!
   
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryann-7&base=736&style=for-the-badge&color=red" alt="Profile Views" />
 </div>
