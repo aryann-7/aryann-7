@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Geist&weight=700&size=30&color=FF0000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Helloo+There%F0%9F%91%8B;I'm+Aryan+Singh!;SWE+Student:+DevOps+%26+AI+Trotterツ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Kaku+Gothic+New&weight=700&size=30&color=FF0000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Helloo+There%F0%9F%91%8B;I'm+Aryan+Singh!;SWE+Student:+DevOps+%26+AI+Trotter%E3%83%84" alt="Typing SVG" />
 </h1>
 
 ## "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases."
