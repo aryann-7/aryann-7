@@ -1,5 +1,5 @@
 <h1 align="center">
-Hey there👋, I'm Aryan
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Geist+Mono&size=30&color=FF0000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There%F0%9F%91%8B;I'm+Aryan;SWE+Student:+DevOps,+ML+%26+AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ## A Software Engineering student, passionate developer and avid follower about all things tech-related.
