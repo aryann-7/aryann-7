@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on developing **a React Native Webapp**
 - 👯 I'm looking to collaborate on **Java & Python Projects**
-- 💬 Ask me anything **SWE, OOP, Web Dev & DevOps**
+- 💬 Ask me anything **SWE, OOP, Web Dev, DevOps & AI**
 - 🌐 Personal Website: www.aryan10.dev
 
 ---
@@ -68,7 +68,7 @@
 
 <div align="center">
   
-  ### Show some ❤️ by starring some of the repositories!
+  ### Show some ❤️ by viewing & starring some of the repositories!
   ### God Bless!
   
 </div>
@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryann-7&base=736&style=for-the-badge&color=red" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aryann-7&base=1236&style=for-the-badge&color=red" alt="Profile Views" />
 </div>
