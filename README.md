@@ -59,12 +59,16 @@
 ---
 
 <div align="center">
+  
   ### Show some ❤️ by viewing & starring some of the repositories!
   ### God Bless!
+  
 </div>
 
 ---
 
 <div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=aryann-7&base=1236&style=for-the-badge&color=red" alt="Profile Views" />
+  
 </div>
