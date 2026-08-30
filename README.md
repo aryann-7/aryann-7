@@ -4,9 +4,6 @@
 
 ## "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases."
 
-- 🔭 I'm currently working on developing **a React Native Webapp**
-- 👯 I'm looking to collaborate on **Java & Python Projects**
-- 💬 Ask me anything **SWE, OOP, Web Dev, DevOps & AI**
 - 🌐 Personal Website: www.aryan10.dev
 
 ---
