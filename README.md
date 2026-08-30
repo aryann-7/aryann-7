@@ -15,7 +15,6 @@
 ## 🛠️ Languages and Tools:
 
 <div align="center">
- 
 <!-- Languages -->
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,23 +53,13 @@
 <!-- Version Control -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  
-</div>
-
----
-
-<!-- Top Languages Donut Chart -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryann-7&theme=dracula" alt="All Languages Pie Chart" />
 </div>
 
 ---
 
 <div align="center">
-  
   ### Show some ❤️ by viewing & starring some of the repositories!
   ### God Bless!
-  
 </div>
 
 ---
