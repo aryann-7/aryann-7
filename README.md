@@ -4,7 +4,7 @@
 
 ## "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases."
 
-- 🌐 Personal Website: www.aryan10.dev
+🌐 Personal Website: www.aryan10.dev
 
 ---
 
@@ -65,7 +65,5 @@
 ---
 
 <div align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=aryann-7&base=1236&style=for-the-badge&color=red" alt="Profile Views" />
-  
 </div>
