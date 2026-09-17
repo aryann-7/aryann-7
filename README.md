@@ -12,25 +12,19 @@
 <div align="center">
 
 ### Languages
-![](https://skillicons.dev/icons?i=cpp,java,py,ts,js&theme=dark)
+![](https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,html,css,kotlin&theme=dark)
 
-### Web Frontend
-![](https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark)
+### Frameworks & Libraries
+![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,astro,svelte&theme=dark)
 
-### Backend & Frameworks
-![](https://skillicons.dev/icons?i=nodejs,wordpress&theme=dark)
+### Databases
+![](https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark)
 
-### Cloud & Databases
-![](https://skillicons.dev/icons?i=azure,mysql&theme=dark)
+### Tools & Platforms
+![](https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma&theme=dark)
 
-### Tools & IDEs
-![](https://skillicons.dev/icons?i=vscode,idea,androidstudio&theme=dark)
-
-### Internship Experience
-![](https://skillicons.dev/icons?i=azure,dotnet&theme=dark)
-
-### Version Control
-![](https://skillicons.dev/icons?i=git,github&theme=dark)
+### Cloud Computing
+![](https://skillicons.dev/icons?i=ubuntu,linux,wordpress,azure&theme=dark)
 
 </div>
 
