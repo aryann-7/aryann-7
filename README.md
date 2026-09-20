@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Kaku+Gothic+New&weight=700&size=30&color=FF0000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Helloo+There%F0%9F%91%8B;I'm+Aryan+!;SWE+Student:+DevOps+%26+AI+Trotter%E3%83%84" alt="Typing SVG" />
 </h1>
 
-## "Software is like entropy: Difficult to grasp, Weighs nothing, and of course: It is always increasing."
+## "Software is like entropy: Difficult to grasp, Weighs nothing, and always increasing."
 
 ---
 
