@@ -3,14 +3,11 @@
 </h1>
 
 ---
-
 ## "Software is like entropy: Difficult to grasp, Weighs nothing, and always increasing."
-
 ---
 
 <!-- Real-time Coding Stats -->
 ## 🛠️ Languages and Tools:
-
 <div align="center">
 
 ### Languages
