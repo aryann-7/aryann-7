@@ -53,7 +53,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryann-7&base=1236&style=for-the-badge&color=red" alt="Profile Views" />
-</div>
-  <img src="https://komarev.com/ghpvc/?username=aryann-7&base=1236&style=for-the-badge&color=red" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aryann-7&base=1493&style=for-the-badge&color=red" alt="Profile Views" />
 </div>
